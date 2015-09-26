@@ -1,6 +1,4 @@
-# Ascent API
-
-API where the business logic for the Ascent project lives
+# Ant Game
 
 ## Prerequisites
 
